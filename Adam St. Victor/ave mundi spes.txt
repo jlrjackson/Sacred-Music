@@ -1,0 +1,82 @@
+name: Ave mundi spes Maria;
+gabc-copyright: public domain;
+office-part: sequence;
+occasion: Assumption of the Blessed Virgin Mary;
+author: Adam St. Victor;
+date: ;
+book: "http://www.danielmitsui.com/hieronymus/index.blog/2223713/assumption-of-the-blessed-virgin-mary/";
+transcriber: Jamie Jackson;
+transcription-date: 20120830;
+mode: ;
+centering-scheme: english;
+annotation: ;
+%spacing: vichi;
+%font: OFLSortsMillGoudy;
+%width: 6;
+%height: 10;
+%%
+(c3)
+
+A(e)ve(e) mun(f)di(e) spes(g) Ma(h)ri(i)a,(i) (;)
+A(i)ve(h) mi(g)tis,(h) a(i)ve(hg) pi(f)a,(e) (:)
+A(f)ve(gh) ple(f)na(e) gra(d)ti(e)a.(e) (::)
+
+A(e)ve(e) vir(f)go(e) sin(g)gu(h)la(i)ris,(i) (;)
+Quae(i) per(h) ru(g)bum(h) de(i)sig(hg)na(f)ris(e) (:)
+Non(f) pas(gh)sum(f) in(e)cen(d)di(e)a.(e) (::)
+
+A(e)ve(c) ro(d)sa(b) spe(c)ci(e)o(f)sa,(e) (;)
+A(f)ve(gh) Jes(f)se(e) vir(d)gu(e)la(e) : (::)
+
+Cu(e)jus(c) fruc(d)tus(b) nos(c)tri(e) luc(f)tus(e) (;)
+Re(f)la(gh)xa(f)vit(e) vin(d)cu(e)la.(e) (::)
+
+A(i)ve(h) cu(gh)jus(fe) vis(h)ce(i)ra,(i) (;)
+Con(e)tra(f) mor(g)tis(i) foe(h)de(g)ra,(fe) (:) 
+E(f)di(gh)de(f)runt(e) Fi(d)li(e)um.(e) (::)
+
+A(i)ve(h) ca(gh)rens(fe) si(h)mi(i)li,(i) (;)
+Mun(e)do(f) di(g)u(i) fle(h)bi(g)li(fe) (:)
+Re(f)pa(gh)ras(f)ti(e) gau(d)di(e)um.(e) (::)
+
+A(e)ve(i) vir(j)gi(h)num(i) lu(gf)cer(h)na,(i) (;)
+Per(j) quam(k) ful(j)sit(i) lux(gf) su(h)per(i)na(i) (:)
+His(i) quos(g) um(h)bra(fe) te(d)nu(e)it.(e) (::)
+
+A(e)ve(i) Vir(j)go(h) de(i) qua(gf) nas(h)ci,(i) (;)
+Et(j) de(k) cu(j)jus(i) lac(gf)te(h) pas(i)ci(i) (:)
+Rex(i) cae(g)lo(h)rum(fe) vo(d)lu(e)it.(e) (::)
+
+A(i)ve(ij) gem(l)ma,(l) cae(k)li(j) lu(i)mi(j)na(k)ri(j)um,(i) (::)
+
+A(i)ve(ij) San(l)cti(l) Spi(k)ri(j)tus(i) sa(j)cra(k)ri(j)um.(i) (::)
+
+O(i) quam(g) mi(h)ra(ih)bi(f)lis,(e) (;)
+Et(i) quam(j) lau(g)da(h)bi(i)lis(i) (:)
+Haec(e) est(fg) vir(fg)gi(hg)ni(f)tas,(e) (::)
+
+In(i) qua(g) per(h) Spi(ih)ri(f)tum(e) (;)
+Fac(i)ta(j) Pa(g)ra(h)cli(i)tum(i) (:)
+Ful(e)sit(fg) fe(fg)cun(hg)di(f)tas!(e) (::)
+
+O(i) quam(ij) san(l)cta,(l) quam(k) se(j)re(l)na,(i) (;)
+Quam(j) be(k)nig(j)na,(h) quam(i) a(j)moe(i)na(g) (:)
+Es(i)se(g) Vir(h)go(fe) cre(d)di(e)tur,(e) (::)
+
+Per(i) quam(ij) ser(l)vi(l)tus(k) fi(j)ni(l)tur,(i) (;)
+Por(j)ta(k) cae(j)li(h) a(i)pe(j)ri(i)tur,(g) (:)
+Et(i) li(g)ber(h)tas(fe) red(d)di(e)tur!(e) (::)
+
+O(ivivHGFE) cas(e)ti(f)ta(g)tis(h) li(i)li(j)um,(i) (;)
+Tu(j)um(h) pre(i)ca(g)re(h) Fi(ih)li(f)um,(e) (:)
+Qui(i) sa(j)lus(i) est(j) hu(h)mi(i)li(j)um,(i) (::)
+
+Ne(ivivHGFE) nos(e) pro(f) nos(g)tro(h) vi(i)ti(j)o,(i) (;)
+In(j) fle(h)bi(i)li(g) ju(h)di(ih)ci(f)o(e) (:)
+Sub(i)ji(j)ci(i)at(j) sup(h)pli(i)ci(j)o;(i) (::)
+
+Sed(e) nos(f) tu(g)a(i) san(h)cta(g) pre(f)ce(e) (;)
+Mun(f)dans(h) a(f) pec(e)ca(c)ti(d) fae(f)ce,(e) (:)
+Col(e)lo(f)cet(g) in(i) lu(h)cis(g) do(f)mo:(e) (::)
+
+A(f)men(h) di(f)cat(e) om(c)nis(d) ho(f)mo!(e) (::)
